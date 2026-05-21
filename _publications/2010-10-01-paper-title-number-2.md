@@ -8,7 +8,7 @@ mean and standard deviation of position deviation of the master robot were 5.3 c
 error between the master-slave robot were 4.4 cm, 0 cm, 1.3 cm, and 1 cm respectively. Concerning the ground head turn, the command navigation method allowed continuous turning, but the lateral deviation between robots was more than 0.3 m and less than 1 m, and the heading deviation was more than 10◦ and less than 90◦.'
 date: 2022-01-31
 venue: 'Journal 1'
-paperurl: 'https://imau-davy.github.io/imau-davyhao.github.io/files/paper2.pdf'
+paperurl: 'https://imau-davyhao.github.io/files/paper2.pdf'
 citation: 'Mao, Wenju, Heng Liu, Wei Hao, Fuzeng Yang, and Zhijie Liu. "Development of a combined orchard harvesting robot navigation system." Remote Sensing 14, no. 3 (2022): 675.'
 ---
 Our research concerned the development of an autonomous robotic navigation system for orchard harvesting with a dual master-slave mode, the autonomous navigation tractor orchard transport robot being the master followed by a navigation orchard picking robot as the slave. This addresses the problem that in single master-slave navigation mode, agricultural combined harvesting
